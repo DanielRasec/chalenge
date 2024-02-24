@@ -1,8 +1,9 @@
 Projeto criado a partir das aulas da One Alura,
 Não foi feito responsividade do mesmo.
-E no momento de criar o executavel no site VERCEL, desconfigurou um pouco, mas pra mim foi um aprendizado excelente.
+Corrigido alguns erros.
 
 
 https://chalenge-six.vercel.app/
 
-![image](https://github.com/DanielRasec/chalenge/assets/134658601/cd6779d7-f26b-460e-9878-4dcf042847e0)
+![image](https://github.com/DanielRasec/chalenge/assets/134658601/ca909cca-6c12-4c03-9b33-84e8986a0179)
+
